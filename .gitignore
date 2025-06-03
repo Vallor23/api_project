@@ -1,0 +1,11 @@
+.env
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Django-specific
+db.sqlite3
+*.log
+migrations/
